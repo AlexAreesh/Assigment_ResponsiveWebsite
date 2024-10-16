@@ -7,7 +7,7 @@ function Navbar() {
    
         <nav className='text-black bg-cover opacity-90 bg-blur-sm  justify-center items-center pt-5  text-center lg:flex md:flex md:justify-between  pb-4 '>
           <Link href={'/'}>
-            <div className="logo  font-bold text-2xl tracking-in-expand mt-1 pb-3 md:p-0 md:ml-24">Captive
+            <div className="logo  font-bold text-2xl tracking-in-expand mt-1 pb-3 md:p-0 md:ml-24">DINER
             </div>
           </Link>
            
